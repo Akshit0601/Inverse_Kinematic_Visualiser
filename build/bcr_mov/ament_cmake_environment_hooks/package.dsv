@@ -1,0 +1,4 @@
+source;share/bcr_mov/local_setup.bash
+source;share/bcr_mov/local_setup.dsv
+source;share/bcr_mov/local_setup.sh
+source;share/bcr_mov/local_setup.zsh

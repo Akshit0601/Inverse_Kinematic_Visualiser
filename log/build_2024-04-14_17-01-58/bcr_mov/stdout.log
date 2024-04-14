@@ -1,0 +1,21 @@
+-- Install configuration: ""
+-- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov//urdf
+-- Installing: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov//urdf/arm.urdf
+-- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov//urdf/arm.urdf.xacro
+-- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov//launch
+-- Installing: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov//launch/gazebo.launch.py
+-- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/ament_index/resource_index/package_run_dependencies/bcr_mov
+-- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/ament_index/resource_index/parent_prefix_path/bcr_mov
+-- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov/environment/ament_prefix_path.sh
+-- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov/environment/path.sh
+-- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov/environment/path.dsv
+-- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov/local_setup.bash
+-- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov/local_setup.sh
+-- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov/local_setup.zsh
+-- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov/local_setup.dsv
+-- Installing: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov/package.dsv
+-- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/ament_index/resource_index/packages/bcr_mov
+-- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov/cmake/bcr_movConfig.cmake
+-- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov/cmake/bcr_movConfig-version.cmake
+-- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov/package.xml

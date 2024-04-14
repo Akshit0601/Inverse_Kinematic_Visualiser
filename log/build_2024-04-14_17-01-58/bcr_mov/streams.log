@@ -1,0 +1,25 @@
+[0.012s] Invoking command in '/home/akshit/bcr_mani/build/bcr_mov': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/akshit/bcr_mani/build/bcr_mov -- -j16 -l16
+[0.056s] Invoked command in '/home/akshit/bcr_mani/build/bcr_mov' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/akshit/bcr_mani/build/bcr_mov -- -j16 -l16
+[0.090s] Invoking command in '/home/akshit/bcr_mani/build/bcr_mov': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/akshit/bcr_mani/build/bcr_mov
+[0.100s] -- Install configuration: ""
+[0.100s] -- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov//urdf
+[0.100s] -- Installing: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov//urdf/arm.urdf
+[0.100s] -- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov//urdf/arm.urdf.xacro
+[0.100s] -- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov//launch
+[0.100s] -- Installing: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov//launch/gazebo.launch.py
+[0.100s] -- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/ament_index/resource_index/package_run_dependencies/bcr_mov
+[0.100s] -- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/ament_index/resource_index/parent_prefix_path/bcr_mov
+[0.100s] -- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov/environment/ament_prefix_path.sh
+[0.100s] -- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov/environment/ament_prefix_path.dsv
+[0.100s] -- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov/environment/path.sh
+[0.100s] -- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov/environment/path.dsv
+[0.100s] -- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov/local_setup.bash
+[0.100s] -- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov/local_setup.sh
+[0.100s] -- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov/local_setup.zsh
+[0.100s] -- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov/local_setup.dsv
+[0.100s] -- Installing: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov/package.dsv
+[0.100s] -- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/ament_index/resource_index/packages/bcr_mov
+[0.100s] -- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov/cmake/bcr_movConfig.cmake
+[0.100s] -- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov/cmake/bcr_movConfig-version.cmake
+[0.100s] -- Up-to-date: /home/akshit/bcr_mani/install/bcr_mov/share/bcr_mov/package.xml
+[0.108s] Invoked command in '/home/akshit/bcr_mani/build/bcr_mov' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/akshit/bcr_mani/build/bcr_mov

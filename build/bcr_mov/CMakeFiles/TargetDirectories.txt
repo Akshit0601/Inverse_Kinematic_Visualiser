@@ -1,0 +1,9 @@
+/home/akshit/bcr_mani/build/bcr_mov/CMakeFiles/uninstall.dir
+/home/akshit/bcr_mani/build/bcr_mov/CMakeFiles/bcr_mov_uninstall.dir
+/home/akshit/bcr_mani/build/bcr_mov/CMakeFiles/test.dir
+/home/akshit/bcr_mani/build/bcr_mov/CMakeFiles/edit_cache.dir
+/home/akshit/bcr_mani/build/bcr_mov/CMakeFiles/rebuild_cache.dir
+/home/akshit/bcr_mani/build/bcr_mov/CMakeFiles/list_install_components.dir
+/home/akshit/bcr_mani/build/bcr_mov/CMakeFiles/install.dir
+/home/akshit/bcr_mani/build/bcr_mov/CMakeFiles/install/local.dir
+/home/akshit/bcr_mani/build/bcr_mov/CMakeFiles/install/strip.dir
